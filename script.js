@@ -1,14 +1,14 @@
 // Data biodata
 const biodataData = {
-    fullName: "Erik Suroso",
+    fullName: "Panjalu Galih Abadi",
     occupation: "Mahasiswa",
-    birthInfo: "Purbalingga, 02 Maret 2005",
+    birthInfo: "Banyumas, 26 Oktober 2002",
     gender: "Laki-laki",
     religion: "Islam",
-    address: "Majasem, Kemangkon, Purbalingga",
-    email: "eriksuroso235@gmail.com",
-    phone: "088216635472",
-    social: "@erichh.fromm",
+    address: "Lesmana, Ajibarang, Banyumas",
+    email: "panjalugalihabadi@gmail.com",
+    phone: "089000888002",
+    social: "@zzzzzz",
     skills: [
         "HTML", "CSS", "MySQL", "Microsoft Office"
     ]
